@@ -5,7 +5,7 @@ import  MenProducts  from './products/men fashion/MenFashion.js';
 
 
 
-const products=[...electronics,...MenProducts];
+const allProducts=[...electronics,...MenProducts];
 
 dotenv.config();
 
@@ -16,7 +16,7 @@ app.get('/',(req,res)=>{
 })
 
 app.get('/api/products',(req,res)=>{
-    res.json(products)
+    res.json(allProducts)
 })
 
 const port=process.env.PORT || 3000;
