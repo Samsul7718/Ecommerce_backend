@@ -1,5 +1,11 @@
 import express from 'express';
 import dotenv from 'dotenv';
+import  electronics from './products/electronics/Electronic.js';
+import  MenProducts  from './products/men fashion/MenFashion.js';
+
+
+
+const products=[...electronics,...MenProducts];
 
 dotenv.config();
 
