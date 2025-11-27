@@ -1,4 +1,4 @@
-import {lapi,speaker,watch,pend} from "../../assets";
+import {lapi,speaker,watch,pend} from "../../assets/pdImage.js";
 
 
 const  Electronic = [
