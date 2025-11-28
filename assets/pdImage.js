@@ -108,10 +108,10 @@
 
 
 export default{
-   shirt:"/public/images/men-cloth/shirt-men.webp",
-   pant:"/public/images/men-cloth/pants.webp",
-   tshirt:"/public/images/men-cloth/tshirt.jpeg",
-   formal:"/public/images/men-cloth/formal.jpg",
+   shirt:"/images/men-cloth/shirt-men.webp",
+   pant:"/images/men-cloth/pants.webp",
+   tshirt:"/images/men-cloth/tshirt.jpeg",
+   formal:"/images/men-cloth/formal.jpg",
 
   
 

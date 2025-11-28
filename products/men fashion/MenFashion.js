@@ -1,4 +1,4 @@
-import {shirt,pant,tshirt,formal} from "../../assets/pdImage.js";
+import images from "../../assets/pdImage.js";
 const MenProducts = [
   
   {
@@ -6,7 +6,7 @@ const MenProducts = [
     name: "Formal Dress",
     price: 79.99,
     description: "These formals are designed for comfort and style...",
-    images: [formal,shirt,pant,tshirt], 
+    images: [images.formal,images.shirt,images.pant,images.tshirt], 
     colors: ["black","red", "blue"],
     size: ["S", "M", "L", "XL"],
     
@@ -16,7 +16,7 @@ const MenProducts = [
     name: "Casual Shirt",
     price: 49.99,
     description: "Soft cotton casual shirt for daily wear...",
-    images: [shirt,formal,tshirt,pant],
+    images: [images.shirt,images.formal,images.tshirt,images.pant],
     colors: ["black","red", "blue"],
     size: ["S", "M", "L", "XL"],
     
@@ -26,7 +26,7 @@ const MenProducts = [
     name: "Casual Office Wear",
     price: 39.99,
     description: "Soft cotton casual shirt for office wear...",
-    images: [tshirt,formal,pant,shirt],
+    images: [images.tshirt,images.formal,images.pant,images.shirt],
     colors: ["black","red", "blue"],
     size: ["S", "M", "L", "XL"],
   
@@ -36,7 +36,7 @@ const MenProducts = [
     name: "Casual Pant",
     price: 36.99,
     description: "Soft cotton casual T_shirt for daily wear...",
-    images: [pant,shirt,tshirt,formal],
+    images: [images.pant,images.shirt,images.tshirt,images.formal],
     colors: ["black","red", "blue"],
     size: ["S", "M", "L", "XL"],
   },
