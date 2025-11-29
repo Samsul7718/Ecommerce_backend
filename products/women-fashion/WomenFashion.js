@@ -1,43 +1,43 @@
-import { long,kurti ,saree,burkha} from "../../assets";
+import women from "../../assets/pdImage.js";
 
 
 const GirlProducts = [
   
   {
-    id: "101",
+    id: "51",
     name: "Long dress",
     price: 79.99,
     description: "These long dress specially designed for function and style...",
-    images: [long,kurti,saree,burkha],
+    images: [women.long,women.kurti,women.saree,women.burkha],
     colors: ["black","red", "blue"],
     size: ["S", "M", "L", "XL"],
   },
   {
-    id: "102",
+    id: "52",
     name: "Kurti",
     price: 49.99,
     description: "Soft cotton kurti for daily wear...",
-    images: [kurti,saree,burkha,long],
+    images: [women.kurti,women.saree,women.burkha,women.long],
     colors: ["red", "green"],
     size: ["S", "M", "L", "XL"],
   },
    {
-    id: "103",
+    id: "53",
     name: "South Saree",
     price: 45.99,
     description: "Long traditional saree for daily wear...",
-    images: [saree,burkha,long,kurti],
+    images: [women.saree,women.burkha,women.long,women.kurti],
     colors: ["black", "green"],
     size: ["S", "M", "L", "XL"],
   },
    {
-    id: "104",
+    id: "54",
     name: "Burkha",
     price: 88.99,
     description: "Elegant burkha for special occasions...",
-    images: [burkha,long,kurti,saree],
+    images: [women.burkha,women.long,women.kurti,women.saree],
     colors: ["black","blue", "green"],
     size: ["S", "M", "L", "XL"],
   },
 ];
-export {GirlProducts};
+export default GirlProducts;
