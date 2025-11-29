@@ -4,10 +4,12 @@ import cors from 'cors';
 // import  electronics from './products/electronics/Electronic.js';
 import  MenProducts  from './products/men-fashion/MenFashion.js';
 import GirlProducts from './products/women-fashion/WomenFashion.js';
+import GymProducts from './products/gym/Gym.js';
 
 
 
-const allProducts=[...MenProducts,...GirlProducts];
+
+const allProducts=[...MenProducts,...GirlProducts,...GymProducts];
 
 const app=express();
 dotenv.config();
