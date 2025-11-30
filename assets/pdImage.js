@@ -13,5 +13,9 @@ export default{
    dumble:"/images/gym/dumble.jpg",
    starx:"/images/gym/starx.webp",
    trademill:"/images/gym/trademill.webp",
+   car:"/images/toy/car.webp",
+   bike:"/images/toy/bike.webp",
+   jcb:"/images/toy/jcb.webp ",
+   train:"/images/toy/train.webp",
 
 }
