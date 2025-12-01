@@ -17,5 +17,9 @@ export default{
    bike:"/images/toy/bike.webp",
    jcb:"/images/toy/jcb.webp ",
    train:"/images/toy/train.webp",
+   coffee:"/images/kitchen/coffiee1.jpeg",
+   juicer:"/images/kitchen/juicer.webp",
+   ricemaker:"/images/kitchen/rice-maker.webp",
+   toaster:"/images/kitchen/toaster.webp",
 
 }

@@ -5,11 +5,12 @@ import cors from 'cors';
 import  MenProducts  from './products/men-fashion/MenFashion.js';
 import GirlProducts from './products/women-fashion/WomenFashion.js';
 import GymProducts from './products/gym/Gym.js';
+import ToyProducts from './products/toy/Toys.js';
 
 
 
 
-const allProducts=[...MenProducts,...GirlProducts,...GymProducts];
+const allProducts=[...MenProducts,...GirlProducts,...GymProducts,...ToyProducts];
 
 const app=express();
 dotenv.config();

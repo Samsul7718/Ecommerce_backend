@@ -23,7 +23,7 @@ const MenProducts = [
   },
    {
     id: "3",
-    name: "Casual Office Wear",
+    name: " Office Wear",
     price: 39.99,
     description: "Soft cotton casual shirt for office wear...",
     images: [men.tshirt,men.formal,men.pant,men.shirt],
