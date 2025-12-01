@@ -1,18 +1,18 @@
-import gym from "../../assets/pdImage.js";
+import toy from "../../assets/pdImage.js";
 const ToyProducts = [
   
   {
-    id: "101",
-    name: "Trademill",
-    price: 379.99,
-    description: "The universal fitness comfort and style...",
-    images: [gym.trademill,gym.dumble,gym.starx,gym.chest], 
+    id: "151",
+    name: "Car Toy",
+    price: 179.99,
+    description: "colorful and durable car toy for kids...",
+    images: [toy.car,toy.bike,toy.jcb,toy.train], 
     colors: ["black","red", "blue"],
     size: ["S", "M", "L", "XL"],
     
   },
   {
-    id: "102",
+    id: "152",
     name: "Dumble Set",
     price: 69.99,
     description: "Soft corner to build the massive biseps...",
@@ -22,7 +22,7 @@ const ToyProducts = [
     
   },
    {
-    id: "103",
+    id: "153",
     name: "Starx Machine",
     price: 439.99,
     description: "Advanced starx machine for full body workout...",
@@ -31,7 +31,7 @@ const ToyProducts = [
     size: ["S", "M", "L", "XL"],
    },
    {
-    id: "104",
+    id: "154",
     name: "Chest Press Machine",
     price: 136.99,
     description: "Build your chest muscles with this amazing machine...",
