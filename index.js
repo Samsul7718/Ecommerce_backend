@@ -6,11 +6,12 @@ import  MenProducts  from './products/men-fashion/MenFashion.js';
 import GirlProducts from './products/women-fashion/WomenFashion.js';
 import GymProducts from './products/gym/Gym.js';
 import ToyProducts from './products/toy/Toys.js';
+import KitProducts from './products/kitchen/Kitchen.js';
 
 
 
 
-const allProducts=[...MenProducts,...GirlProducts,...GymProducts,...ToyProducts];
+const allProducts=[...MenProducts,...GirlProducts,...GymProducts,...ToyProducts,...KitProducts];
 
 const app=express();
 dotenv.config();
