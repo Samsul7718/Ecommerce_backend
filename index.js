@@ -7,11 +7,14 @@ import GirlProducts from './products/women-fashion/WomenFashion.js';
 import GymProducts from './products/gym/Gym.js';
 import ToyProducts from './products/toy/Toys.js';
 import KitProducts from './products/kitchen/Kitchen.js';
+import ShoeProducts from './products/shoe/Shoes.js';
 
 
 
 
-const allProducts=[...MenProducts,...GirlProducts,...GymProducts,...ToyProducts,...KitProducts];
+const allProducts=[...MenProducts,...GirlProducts,...GymProducts,...ToyProducts,...KitProducts,
+    ...ShoeProducts,
+];
 
 const app=express();
 dotenv.config();
