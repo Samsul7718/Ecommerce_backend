@@ -8,12 +8,13 @@ import GymProducts from './products/gym/Gym.js';
 import ToyProducts from './products/toy/Toys.js';
 import KitProducts from './products/kitchen/Kitchen.js';
 import ShoeProducts from './products/shoe/Shoes.js';
+import Electronic from './products/electronics/Electronic.js';
 
 
 
 
 const allProducts=[...MenProducts,...GirlProducts,...GymProducts,...ToyProducts,...KitProducts,
-    ...ShoeProducts,
+    ...ShoeProducts,...Electronic,
 ];
 
 const app=express();
