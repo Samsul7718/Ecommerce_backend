@@ -21,5 +21,9 @@ export default{
    juicer:"/images/kitchen/juicer.webp",
    ricemaker:"/images/kitchen/rice-maker.webp",
    toaster:"/images/kitchen/toaster.webp",
+   nike:"/images/shoe/n1.jpeg",
+   adidas:"/images/shoe/adi1.jpeg",
+   puma:"/images/shoe/pma1.jpeg",
+   reebok:"/images/shoe/reb1.jpeg",
 
 }
