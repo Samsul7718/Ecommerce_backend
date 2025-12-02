@@ -41,4 +41,4 @@ const  Electronic = [
     size: ["S", "M", "L", "XL"],
   },
 ];
-export {Electronic};
+export default Electronic;
