@@ -25,5 +25,9 @@ export default{
    adidas:"/images/shoe/adi1.jpeg",
    puma:"/images/shoe/pma1.jpeg",
    reebok:"/images/shoe/reb1.jpeg",
+   macbook:"/images/electronics/mac.jpg",
+   speaker:"/images/electronics/speaker.jpeg",
+   watch:"/images/electronics/watch.webp",
+   pendrive:"/images/electronics/pend.jpg",
 
 }
