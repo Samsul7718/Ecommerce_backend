@@ -32,6 +32,6 @@ export default{
    dayCream:"/images/beauty/day_cream.webp",
    faceWash:"/images/beauty/facewash.webp",
    lipstick:"/images/beauty/lipstick.webp",
-   facepwder:"/images/beauty/facepwd.webp",
+   facepwd:"/images/beauty/facepwd.webp",
 
 }
