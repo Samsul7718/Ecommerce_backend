@@ -1,4 +1,4 @@
-import beauty from "../../assets";
+import beauty from "../../assets/pdImage.js";
 
 
 const  Beauty = [
@@ -9,7 +9,7 @@ const  Beauty = [
     name: "Face Powder",
     price: 599.99,
     description: "Best looking buauty product...",
-    images: [beauty.facepwd,beauty.dayCreme,beauty.lipstick,beauty.facewash],
+    images: [beauty.facepwd,beauty.daycream,beauty.lipstick,beauty.facewash],
     colors: ["black","red", "blue"],
     size: ["S", "M", "L", "XL"],
   },
@@ -18,7 +18,7 @@ const  Beauty = [
     name: "Day-Creame",
     price: 549.99,
     description: "Perfect gradient day creame for unisex",
-    images: [beauty.dayCreme,beauty.lipstick,beauty.facewash,beauty.facepwd],
+    images: [beauty.daycream,beauty.lipstick,beauty.facewash,beauty.facepwd],
     colors: ["red", "green"],
     size: ["S", "M", "L", "XL"],
   },
@@ -27,7 +27,7 @@ const  Beauty = [
     name: "LipStick",
     price: 699.99,
     description: "Varient color colorful lipstick",
-    images: [beauty.lipstick,beauty.facewash,beauty.facepwd,beauty.dayCreme],
+    images: [beauty.lipstick,beauty.facewash,beauty.facepwd,beauty.daycream],
     colors: ["black", "green"],
     size: ["S", "M", "L", "XL"],
   },
@@ -36,7 +36,7 @@ const  Beauty = [
     name: "Face Wash",
     price: 223.99,
     description: "Getting dust free bright looking",
-    images: [beauty.facewash,beauty.facepwd,beauty.dayCreme,beauty.lipstick],
+    images: [beauty.facewash,beauty.facepwd,beauty.daycream,beauty.lipstick],
     colors: ["black","blue", "green"],
     size: ["S", "M", "L", "XL"],
   },

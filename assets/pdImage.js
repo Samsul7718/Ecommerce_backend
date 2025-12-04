@@ -29,8 +29,8 @@ export default{
    speaker:"/images/electronics/speaker.jpeg",
    watch:"/images/electronics/watch.webp",
    pendrive:"/images/electronics/pend.jpg",
-   dayCream:"/images/beauty/day_cream.webp",
-   faceWash:"/images/beauty/facewash.webp",
+   daycream:"/images/beauty/day_creme.webp",
+   facewash:"/images/beauty/facewash.webp",
    lipstick:"/images/beauty/lipstick.webp",
    facepwd:"/images/beauty/facepwd.webp",
 

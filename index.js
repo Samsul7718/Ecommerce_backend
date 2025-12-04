@@ -15,7 +15,7 @@ import Beauty from './products/beauty/Beauty.js';
 
 
 const allProducts=[...MenProducts,...GirlProducts,...GymProducts,...ToyProducts,...KitProducts,
-    ...ShoeProducts,...Electronic,Beauty,
+    ...ShoeProducts,...Electronic,...Beauty,
 ];
 
 const app=express();
