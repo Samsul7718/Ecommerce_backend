@@ -1,7 +1,7 @@
 import express from 'express';
 import dotenv from 'dotenv';
 import cors from 'cors';
-import serverless from "serverless-http";
+// import serverless from "serverless-http";
 // import  electronics from './products/electronics/Electronic.js';
 import  MenProducts  from './products/men-fashion/MenFashion.js';
 import GirlProducts from './products/women-fashion/WomenFashion.js';
@@ -49,15 +49,15 @@ console.log("ALL:", allProducts.length);
 
 const port=process.env.PORT || 3000;
 
-// app.listen(port,()=>{
-//     console.log(`Server is running on port ${port}`);
-// })
+app.listen(port,()=>{
+    console.log(`Server is running on port ${port}`);
+})
 // LOCAL ONLY — DO NOT RUN ON VERCEL
-if (process.env.NODE_ENV !== "production") {
-  const port = 3000;
-  app.listen(port, () => console.log("Local API running at http://localhost:3000"));
-}
+// if (process.env.NODE_ENV !== "production") {
+//   const port = 3000;
+//   app.listen(port, () => console.log("Local API running at http://localhost:3000"));
+// }
 
 // export const handler = serverless(app);
-export const handler = serverless(app);
-export default handler;
+// export const handler = serverless(app);
+// export default handler;
