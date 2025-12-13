@@ -3,14 +3,14 @@ import dotenv from 'dotenv';
 import cors from 'cors';
 // import serverless from "serverless-http";
 // import  electronics from './products/electronics/Electronic.js';
-import  MenProducts  from './products/men-fashion/MenFashion.js';
-import GirlProducts from './products/women-fashion/WomenFashion.js';
-import GymProducts from './products/gym/Gym.js';
-import ToyProducts from './products/toy/Toys.js';
-import KitProducts from './products/kitchen/Kitchen.js';
-import ShoeProducts from './products/shoe/Shoes.js';
-import Electronic from './products/electronics/Electronic.js';
-import Beauty from './products/beauty/Beauty.js';
+import  MenProducts  from '../products/men-fashion/MenFashion.js';
+import GirlProducts from '../products/women-fashion/WomenFashion.js';
+import GymProducts from '../products/gym/Gym.js';
+import ToyProducts from '../products/toy/Toys.js';
+import KitProducts from '../products/kitchen/Kitchen.js';
+import ShoeProducts from '../products/shoe/Shoes.js';
+import Electronic from '../products/electronics/Electronic.js';
+import Beauty from '../products/beauty/Beauty.js';
 
 
 
