@@ -23,10 +23,10 @@ const app=express();
 dotenv.config();
 app.use(cors({
     origin:[
-        // "http://localhost:3000",
         "https://ecommerce-three-umber.vercel.app",
+        // "http://localhost:3000",
         "http://localhost:5173",
-        "http://localhost:5174"
+        // "http://localhost:5174"
     ],
     methods:['GET','POST'],
     credentials:true
@@ -53,10 +53,10 @@ app.listen(port,()=>{
     console.log(`Server is running on port ${port}`);
 })
 // LOCAL ONLY — DO NOT RUN ON VERCEL
-// if (process.env.NODE_ENV !== "production") {
-//   const port = 3000;
-//   app.listen(port, () => console.log("Local API running at http://localhost:3000"));
-// }
+if (process.env.NODE_ENV !== "production") {
+  const port = 3000;
+  app.listen(port, () => console.log("Local API running at http://localhost:3000"));
+}
 
 // export const handler = serverless(app);
 // export const handler = serverless(app);
