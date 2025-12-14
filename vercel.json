@@ -5,9 +5,7 @@
       "src": "api/index.js",
       "use": "@vercel/node",
       "config": {
-        "includeFiles": [
-          "public/**"
-        ]
+        "includeFiles": ["public/**"]
       }
     }
   ],
@@ -17,10 +15,9 @@
       "dest": "/public/images/$1"
     },
     {
-      "src": "/(.*)",
+      "src": "/api/(.*)",
       "dest": "api/index.js"
     }
   ]
 }
-
 
