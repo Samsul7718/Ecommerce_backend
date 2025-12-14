@@ -32,8 +32,8 @@ app.use(cors({
     credentials:true
 }))
 
-
-app.use(express.static('public'));
+app.use("/images", express.static(path.join(process.cwd(), "public/images")));
+// app.use(express.static('public'));
 app.get('/',(req,res)=>{
     res.send('Server is up and running');
 })
