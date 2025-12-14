@@ -49,9 +49,9 @@ console.log("ALL:", allProducts.length);
 
 const port=process.env.PORT || 3000;
 
-app.listen(port,()=>{
-    console.log(`Server is running on port ${port}`);
-})
+// app.listen(port,()=>{
+//     console.log(`Server is running on port ${port}`);
+// })
 // LOCAL ONLY — DO NOT RUN ON VERCEL
 if (process.env.NODE_ENV !== "production") {
   const port = 3000;
@@ -60,4 +60,4 @@ if (process.env.NODE_ENV !== "production") {
 
 // export const handler = serverless(app);
 // export const handler = serverless(app);
-// export default handler;
+export default app;
