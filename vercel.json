@@ -15,9 +15,8 @@
       "dest": "/public/images/$1"
     },
     {
-      "src": "/api/(.*)",
+      "src": "/(.*)",
       "dest": "api/index.js"
     }
   ]
 }
-
