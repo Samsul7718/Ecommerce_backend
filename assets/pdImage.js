@@ -30,8 +30,8 @@ export default{
    watch:"/images/electronics/watch.webp",
    pendrive:"/images/electronics/pend.jpg",
    daycream:"https://jnsl1jaaclyjkpbh.public.blob.vercel-storage.com/day_creme.webp",
-   facewash:"/images/beauty/facewash.webp",
-   lipstick:"/images/beauty/lipstick.webp",
-   facepwd:"/images/beauty/facepwd.webp",
+   facewash:"https://jnsl1jaaclyjkpbh.public.blob.vercel-storage.com/facewash.webp",
+   lipstick:"https://jnsl1jaaclyjkpbh.public.blob.vercel-storage.com/lipstick.webp",
+   facepwd:"https://jnsl1jaaclyjkpbh.public.blob.vercel-storage.com/facepwd.webp",
 
 }
