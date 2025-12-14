@@ -29,7 +29,7 @@ export default{
    speaker:"/images/electronics/speaker.jpeg",
    watch:"/images/electronics/watch.webp",
    pendrive:"/images/electronics/pend.jpg",
-   daycream:"/images/beauty/day_creme.webp",
+   daycream:"https://jnsl1jaaclyjkpbh.public.blob.vercel-storage.com/day_creme.webp",
    facewash:"/images/beauty/facewash.webp",
    lipstick:"/images/beauty/lipstick.webp",
    facepwd:"/images/beauty/facepwd.webp",
