@@ -1,10 +1,10 @@
 
 
 export default{
-   shirt:"/images/men-cloth/shirt-men.webp",
-   pant:"/images/men-cloth/pants.webp",
-   tshirt:"/images/men-cloth/tshirt.jpeg",
-   formal:"/images/men-cloth/formal.jpg",
+   shirt:"https://jnsl1jaaclyjkpbh.public.blob.vercel-storage.com/shirt-men.webp",
+   pant:"https://jnsl1jaaclyjkpbh.public.blob.vercel-storage.com/pants.webp",
+   tshirt:"https://jnsl1jaaclyjkpbh.public.blob.vercel-storage.com/tshirt.jpeg",
+   formal:"https://jnsl1jaaclyjkpbh.public.blob.vercel-storage.com/formal.jpg",
    long:"/images/women-clth/long.webp",
    kurti:"/images/women-clth/kurti.jpeg",
    saree:"/images/women-clth/saree.webp",
