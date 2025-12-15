@@ -23,10 +23,10 @@ const app=express();
 dotenv.config();
 app.use(cors({
     origin:[
-        "https://ecommerce-three-umber.vercel.app",
         // "http://localhost:3000",
+        "https://ecommerce-three-umber.vercel.app",
         "http://localhost:5173",
-        // "http://localhost:5174"
+        
     ],
     methods:['GET','POST'],
     credentials:true
@@ -49,9 +49,9 @@ console.log("ALL:", allProducts.length);
 
 const port=process.env.PORT || 3000;
 
-// app.listen(port,()=>{
-//     console.log(`Server is running on port ${port}`);
-// })
+app.listen(port,()=>{
+    console.log(`Server is running on port ${port}`);
+})
 // LOCAL ONLY — DO NOT RUN ON VERCEL
 // if (process.env.NODE_ENV !== "production") {
 //   const port = 3000;
