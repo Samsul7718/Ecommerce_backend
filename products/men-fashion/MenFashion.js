@@ -9,6 +9,7 @@ const MenProducts = [
     images: [men.formal,men.shirt,men.pant,men.tshirt], 
     colors: ["black","red", "blue"],
     size: ["S", "M", "L", "XL"],
+    category: "men-fashion",
     
   },
   {
@@ -19,6 +20,7 @@ const MenProducts = [
     images: [men.shirt,men.formal,men.tshirt,men.pant],
     colors: ["black","red", "blue"],
     size: ["S", "M", "L", "XL"],
+    category: "men-fashion",
     
   },
    {
@@ -29,6 +31,7 @@ const MenProducts = [
     images: [men.tshirt,men.formal,men.pant,men.shirt],
     colors: ["black","red", "blue"],
     size: ["S", "M", "L", "XL"],
+    category: "men-fashion",
    },
    {
     id: "4",
@@ -38,6 +41,7 @@ const MenProducts = [
     images: [men.pant,men.shirt,men.tshirt,men.formal],
     colors: ["black","red", "blue"],
     size: ["S", "M", "L", "XL"],
+    category: "men-fashion",
   },
 ];
 export default MenProducts;
