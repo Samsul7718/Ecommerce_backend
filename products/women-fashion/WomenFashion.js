@@ -11,6 +11,7 @@ const GirlProducts = [
     images: [women.long,women.kurti,women.saree,women.burkha],
     colors: ["black","red", "blue"],
     size: ["S", "M", "L", "XL"],
+    category: "women-fashion",
   },
   {
     id: "52",
@@ -20,6 +21,7 @@ const GirlProducts = [
     images: [women.kurti,women.saree,women.burkha,women.long],
     colors: ["red", "green"],
     size: ["S", "M", "L", "XL"],
+    category: "women-fashion",
   },
    {
     id: "53",
@@ -29,6 +31,7 @@ const GirlProducts = [
     images: [women.saree,women.burkha,women.long,women.kurti],
     colors: ["black", "green"],
     size: ["S", "M", "L", "XL"],
+    category: "women-fashion",
   },
    {
     id: "54",
@@ -38,6 +41,7 @@ const GirlProducts = [
     images: [women.burkha,women.long,women.kurti,women.saree],
     colors: ["black","blue", "green"],
     size: ["S", "M", "L", "XL"],
+    category: "women-fashion",
   },
 ];
 export default GirlProducts;
