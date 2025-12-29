@@ -9,6 +9,7 @@ const KitProducts = [
     images: [kit.coffee,kit.juicer,kit.ricemaker,kit.toaster], 
     colors: ["black","red", "blue"],
     size: ["S", "M", "L", "XL"],
+    category: "kitchen",
     
   },
   {
@@ -19,6 +20,7 @@ const KitProducts = [
     images: [kit.juicer,kit.ricemaker,kit.toaster,kit.coffee],
     colors: ["black","red", "blue"],
     size: ["S", "M", "L", "XL"],
+    category: "kitchen",
     
   },
    {
@@ -29,6 +31,7 @@ const KitProducts = [
     images: [kit.ricemaker,kit.toaster,kit.coffee,kit.juicer],
     colors: ["black","red", "blue"],
     size: ["S", "M", "L", "XL"],
+    category: "kitchen",
    },
    {
     id: "204",
@@ -38,6 +41,7 @@ const KitProducts = [
     images: [kit.toaster,kit.coffee,kit.juicer,kit.ricemaker],
     colors: ["black","red", "blue"],
     size: ["S", "M", "L", "XL"],
+    category: "kitchen",
   },
 ];
 export default KitProducts;
