@@ -43,5 +43,15 @@ const KitProducts = [
     size: ["S", "M", "L", "XL"],
     category: "kitchen",
   },
+    {
+    id: "205",
+    name: "Ac_Container",
+    price: 599.99,
+    description: "ac_container for cooling and refreshing air...",
+    images: [kit.ac_container,kit.coffee,kit.juicer,kit.ricemaker],
+    colors: ["black","red", "blue"],
+    size: ["S", "M", "L", "XL"],
+    category: "kitchen",
+  },
 ];
 export default KitProducts;
