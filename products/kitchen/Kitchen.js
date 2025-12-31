@@ -73,5 +73,15 @@ const KitProducts = [
     size: ["S", "M", "L", "XL"],
     category: "kitchen",
   },
+        {
+    id: "208",
+    name: "chai_cup",
+    price: 799.99,
+    description: "chai_cup for enjoying your favorite tea...",
+    images: [kit.chai_cup,kit.coffee,kit.juicer,kit.ricemaker],
+    colors: ["black","red", "blue"],
+    size: ["S", "M", "L", "XL"],
+    category: "kitchen",
+  },
 ];
 export default KitProducts;
