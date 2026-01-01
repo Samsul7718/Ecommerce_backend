@@ -75,10 +75,10 @@ const KitProducts = [
   },
         {
     id: "208",
-    name: "chai_cup",
+    name: "chopping_knife",
     price: 799.99,
-    description: "chai_cup for enjoying your favorite tea...",
-    images: [kit.chai_cup,kit.coffee,kit.juicer,kit.ricemaker],
+    description: "chopping_knife for cutting and preparing food...",
+    images: [kit.chopping_knife,kit.coffee,kit.juicer,kit.ricemaker],
     colors: ["black","red", "blue"],
     size: ["S", "M", "L", "XL"],
     category: "kitchen",
