@@ -83,5 +83,15 @@ const KitProducts = [
     size: ["S", "M", "L", "XL"],
     category: "kitchen",
   },
+         {
+    id: "209",
+    name: "ciger",
+    price: 799.99,
+    description: "ciger for slicing...",
+    images: [kit.ciger,kit.coffee,kit.juicer,kit.ricemaker],
+    colors: ["black","red", "blue"],
+    size: ["S", "M", "L", "XL"],
+    category: "kitchen",
+  },
 ];
 export default KitProducts;
