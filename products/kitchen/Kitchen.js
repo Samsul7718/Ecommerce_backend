@@ -93,5 +93,15 @@ const KitProducts = [
     size: ["S", "M", "L", "XL"],
     category: "kitchen",
   },
+           {
+    id: "210",
+    name: "coco_chopper",
+    price: 799.99,
+    description: "coco_chopper for chopping...",
+    images: [kit.coco_chopper,kit.coffee,kit.juicer,kit.ricemaker],
+    colors: ["black","red", "blue"],
+    size: ["S", "M", "L", "XL"],
+    category: "kitchen",
+  },
 ];
 export default KitProducts;
