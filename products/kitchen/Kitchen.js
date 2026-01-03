@@ -113,6 +113,16 @@ const KitProducts = [
     size: ["S", "M", "L", "XL"],
     category: "kitchen",
   },
+           {
+    id: "212",
+    name: "dal_press",
+    price: 799.99,
+    description: "dal_press for pressing dal...",
+    images: [kit.dal_press,kit.coffee,kit.juicer,kit.ricemaker],
+    colors: ["black","red", "blue"],
+    size: ["S", "M", "L", "XL"],
+    category: "kitchen",
+  },
 
 ];
 export default KitProducts;
