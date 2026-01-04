@@ -133,6 +133,16 @@ const KitProducts = [
     size: ["S", "M", "L", "XL"],
     category: "kitchen",
   },
+           {
+    id: "214",
+    name: "karai",
+    price: 299.99,
+    description: "karai for cooking food...",
+    images: [kit.karai,kit.coffee,kit.juicer,kit.ricemaker],
+    colors: ["black","red", "blue"],
+    size: ["S", "M", "L", "XL"],
+    category: "kitchen",
+  },
 
 ];
 export default KitProducts;
