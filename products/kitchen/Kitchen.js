@@ -123,6 +123,16 @@ const KitProducts = [
     size: ["S", "M", "L", "XL"],
     category: "kitchen",
   },
+           {
+    id: "213",
+    name: "ice_makker",
+    price: 799.99,
+    description: "ice_makker for making ice...",
+    images: [kit.ice_makker,kit.coffee,kit.juicer,kit.ricemaker],
+    colors: ["black","red", "blue"],
+    size: ["S", "M", "L", "XL"],
+    category: "kitchen",
+  },
 
 ];
 export default KitProducts;
