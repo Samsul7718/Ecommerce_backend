@@ -153,6 +153,16 @@ const KitProducts = [
     size: ["S", "M", "L", "XL"],
     category: "kitchen",
   },
+          {
+    id: "216",
+    name: "roti_belun",
+    price: 99.99,
+    description: "roti_belun for cooking food...",
+    images: [kit.karai,kit.coffee,kit.juicer,kit.ricemaker],
+    colors: ["black","red", "blue"],
+    size: ["S", "M", "L", "XL"],
+    category: "kitchen",
+  },
 
 ];
 export default KitProducts;
