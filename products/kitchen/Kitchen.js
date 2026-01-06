@@ -163,6 +163,16 @@ const KitProducts = [
     size: ["S", "M", "L", "XL"],
     category: "kitchen",
   },
+           {
+    id: "217",
+    name: "rspray",
+    price: 99.99,
+    description: "rspray for cooking food...",
+    images: [kit.rspray,kit.coffee,kit.juicer,kit.ricemaker],
+    colors: ["black","red", "blue"],
+    size: ["S", "M", "L", "XL"],
+    category: "kitchen",
+  },
 
 ];
 export default KitProducts;
