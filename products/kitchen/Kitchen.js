@@ -173,6 +173,16 @@ const KitProducts = [
     size: ["S", "M", "L", "XL"],
     category: "kitchen",
   },
+             {
+    id: "218",
+    name: "thali",
+    price: 99.99,
+    description: "thali for cooking food...",
+    images: [kit.thali,kit.coffee,kit.juicer,kit.ricemaker],
+    colors: ["black","red", "blue"],
+    size: ["S", "M", "L", "XL"],
+    category: "kitchen",
+  },
 
 ];
 export default KitProducts;
