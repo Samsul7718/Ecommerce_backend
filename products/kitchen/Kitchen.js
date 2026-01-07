@@ -183,6 +183,16 @@ const KitProducts = [
     size: ["S", "M", "L", "XL"],
     category: "kitchen",
   },
+               {
+    id: "219",
+    name: "toast_turn",
+    price: 99.99,
+    description: "toast_turn for cooking food...",
+    images: [kit.toast_turn,kit.coffee,kit.juicer,kit.ricemaker],
+    colors: ["black","red", "blue"],
+    size: ["S", "M", "L", "XL"],
+    category: "kitchen",
+  },
 
 ];
 export default KitProducts;
