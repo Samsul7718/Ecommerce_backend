@@ -50,4 +50,7 @@ export default{
    lipstick:"https://jnsl1jaaclyjkpbh.public.blob.vercel-storage.com/lipstick.webp",
    facepwd:"https://jnsl1jaaclyjkpbh.public.blob.vercel-storage.com/facepwd.webp",
 
+   asus:"https://jnsl1jaaclyjkpbh.public.blob.vercel-storage.com/Laptop/asuslap.jpg",
+   
+
 }
