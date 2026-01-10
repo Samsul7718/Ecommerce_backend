@@ -51,6 +51,9 @@ export default{
    facepwd:"https://jnsl1jaaclyjkpbh.public.blob.vercel-storage.com/facepwd.webp",
 
    asus:"https://jnsl1jaaclyjkpbh.public.blob.vercel-storage.com/Laptop/asuslap.jpg",
-   
+   lenevo:"https://jnsl1jaaclyjkpbh.public.blob.vercel-storage.com/Laptop/lenovo.jpg",
+   macbook:"https://jnsl1jaaclyjkpbh.public.blob.vercel-storage.com/Laptop/mac4.jpg",
+   macpro:"https://jnsl1jaaclyjkpbh.public.blob.vercel-storage.com/Laptop/macpro.jpg",
+
 
 }
