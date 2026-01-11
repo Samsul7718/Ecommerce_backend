@@ -57,7 +57,7 @@ export default{
 
    iphone17:"https://jnsl1jaaclyjkpbh.public.blob.vercel-storage.com/Mobile/iphone17.webp",
    oneplus:"https://jnsl1jaaclyjkpbh.public.blob.vercel-storage.com/Mobile/oneplus.webp",
-   // samgsung:"https://jnsl1jaaclyjkpbh.public.blob.vercel-storage.com/Mobile/samg.jpg",
+   samgsung:"https://jnsl1jaaclyjkpbh.public.blob.vercel-storage.com/Mobile/samg.jpg",
 
 
 
