@@ -61,6 +61,7 @@ export default{
    oppo:"https://jnsl1jaaclyjkpbh.public.blob.vercel-storage.com/Mobile/oppo.webp",
 
    bag1:"https://jnsl1jaaclyjkpbh.public.blob.vercel-storage.com/Vanity/bag1.jpg",
+   bag2:"https://jnsl1jaaclyjkpbh.public.blob.vercel-storage.com/Vanity/bag2.jpg",
    
 
 
