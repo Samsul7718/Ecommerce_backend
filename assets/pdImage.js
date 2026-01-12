@@ -60,5 +60,8 @@ export default{
    samgsung:"https://jnsl1jaaclyjkpbh.public.blob.vercel-storage.com/Mobile/samg.jpg",
    oppo:"https://jnsl1jaaclyjkpbh.public.blob.vercel-storage.com/Mobile/oppo.webp",
 
+   bag1:"https://jnsl1jaaclyjkpbh.public.blob.vercel-storage.com/Vanity/bag1.jpg",
+   
+
 
 }
