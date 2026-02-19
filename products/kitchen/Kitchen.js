@@ -19,7 +19,7 @@ const KitProducts = [
     description: "juicer machine for fresh and healthy juices...",
     images: [kit.juicer,kit.ricemaker,kit.toaster,kit.coffee],
     colors: ["black","red", "blue"],
-    size: ["S", "M", "L", "XL"],
+    size: ["S", "M", "L"],
     category: "kitchen",
     
   },
