@@ -8,7 +8,7 @@ const KitProducts = [
     description: "Brew the perfect cup of coffee with this state-of-the-art coffee maker...",
     images: [kit.coffee,kit.juicer,kit.ricemaker,kit.toaster], 
     colors: ["black","red", "blue"],
-    size: ["S", "M", "L", "XL"],
+    size: ["S", "M", "L"],
     category: "kitchen",
     
   },
