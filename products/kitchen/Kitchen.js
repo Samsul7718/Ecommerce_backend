@@ -30,7 +30,7 @@ const KitProducts = [
     description: "rice maker for perfect and fluffy rice every time...",
     images: [kit.ricemaker,kit.toaster,kit.coffee,kit.juicer],
     colors: ["black","red", "blue"],
-    size: ["S", "M", "L", "XL"],
+    size: ["S", "M", "L"],
     category: "kitchen",
    },
    {
