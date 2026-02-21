@@ -80,7 +80,7 @@ const KitProducts = [
     description: "chopping_knife for cutting and preparing food...",
     images: [kit.chopping_knife,kit.coffee,kit.juicer,kit.ricemaker],
     colors: ["black","red", "blue"],
-    size: ["S", "M", "L", "XL"],
+    size: ["S", "M", "L"],
     category: "kitchen",
   },
          {
