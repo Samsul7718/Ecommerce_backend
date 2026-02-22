@@ -110,7 +110,7 @@ const KitProducts = [
     description: "container for storing food...",
     images: [kit.container,kit.coffee,kit.juicer,kit.ricemaker],
     colors: ["black","red", "blue"],
-    size: ["S", "M", "L", "XL"],
+    size: ["S", "M", "L"],
     category: "kitchen",
   },
            {
