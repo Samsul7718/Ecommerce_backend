@@ -100,7 +100,7 @@ const KitProducts = [
     description: "coco_chopper for chopping...",
     images: [kit.coco_chopper,kit.coffee,kit.juicer,kit.ricemaker],
     colors: ["black","red", "blue"],
-    size: ["S", "M", "L", "XL"],
+    size: ["S", "M", "L"],
     category: "kitchen",
   },
           {
