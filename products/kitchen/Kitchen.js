@@ -130,7 +130,7 @@ const KitProducts = [
     description: "ice_makker for making ice...",
     images: [kit.ice_makker,kit.coffee,kit.juicer,kit.ricemaker],
     colors: ["black","red", "blue"],
-    size: ["S", "M", "L", "XL"],
+    size: ["S", "M", "L"],
     category: "kitchen",
   },
            {
