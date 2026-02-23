@@ -120,7 +120,7 @@ const KitProducts = [
     description: "dal_press for pressing dal...",
     images: [kit.dal_press,kit.coffee,kit.juicer,kit.ricemaker],
     colors: ["black","red", "blue"],
-    size: ["S", "M", "L", "XL"],
+    size: ["S", "M", "L"],
     category: "kitchen",
   },
            {
