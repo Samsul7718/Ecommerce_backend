@@ -60,7 +60,7 @@ const KitProducts = [
     description: "bowl for serving and mixing food...",
     images: [kit.bowl,kit.coffee,kit.juicer,kit.ricemaker],
     colors: ["black","red", "blue"],
-    size: ["S", "M", "L", "XL"],
+    size: ["S", "M", "L"],
     category: "kitchen",
   },
        {
