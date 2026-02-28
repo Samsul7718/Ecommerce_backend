@@ -50,7 +50,7 @@ const KitProducts = [
     description: "ac_container for cooling and refreshing air...",
     images: [kit.ac_container,kit.coffee,kit.juicer,kit.ricemaker],
     colors: ["black","red", "blue"],
-    size: ["S", "M", "L", "XL"],
+    size: ["S", "M", "L"],
     category: "kitchen",
   },
      {
