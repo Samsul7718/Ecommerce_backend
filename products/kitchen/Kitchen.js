@@ -40,7 +40,7 @@ const KitProducts = [
     description: "toaster for crispy and golden toast...",
     images: [kit.toaster,kit.coffee,kit.juicer,kit.ricemaker],
     colors: ["black","red", "blue"],
-    size: ["S", "M", "L", "XL"],
+    size: ["S", "M", "L"],
     category: "kitchen",
   },
     {
