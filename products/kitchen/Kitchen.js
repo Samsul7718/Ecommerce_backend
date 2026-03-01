@@ -160,7 +160,7 @@ const KitProducts = [
     price: 99.99,
     description: "spray for cooking food...",
     images: [kit.spray,kit.coffee,kit.juicer,kit.ricemaker],
-    colors: ["black","red", "blue"],
+    colors: ["black","red"],
     size: ["S", "M", "L"],
     category: "kitchen",
   },
