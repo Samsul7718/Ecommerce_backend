@@ -150,7 +150,7 @@ const KitProducts = [
     price: 99.99,
     description: "roti_belun for cooking food...",
     images: [kit.roti_belun,kit.coffee,kit.juicer,kit.ricemaker],
-    colors: ["black","red", "blue"],
+    colors: ["grey"],
     size: ["S", "M", "L"],
     category: "kitchen",
   },
