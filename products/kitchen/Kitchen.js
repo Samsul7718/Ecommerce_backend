@@ -139,7 +139,7 @@ const KitProducts = [
     price: 299.99,
     description: "karai for cooking food...",
     images: [kit.karai,kit.coffee,kit.juicer,kit.ricemaker],
-    colors: ["black","red", "blue"],
+    colors: ["black","white"],
     size: ["S", "M", "L"],
     category: "kitchen",
   },
