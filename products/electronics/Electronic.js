@@ -38,7 +38,7 @@ const  Electronic = [
     description: "Fast and quick transfer data",
     images: [elect.pendrive,elect.macbook,elect.speaker,elect.watch],
     colors: ["black","blue", "green"],
-    size: ["S", "M", "L", "XL"],
+    size: ["S", "M"],
   },
 ];
 export default Electronic;
