@@ -29,7 +29,7 @@ const  Electronic = [
     description: "Expensive watch ever",
     images: [elect.watch,elect.pendrive,elect.macbook,elect.speaker],
     colors: ["black", "green"],
-    size: ["S", "M", "L", "XL"],
+    size: ["S", "M"],
   },
    {
     id: "304",
