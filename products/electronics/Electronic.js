@@ -11,7 +11,7 @@ const  Electronic = [
     description: "Worlds ist fastest and lightweighyt lapi",
     images: [elect.macbook,elect.speaker,elect.watch,elect.pendrive],
     colors: ["black","red", "blue"],
-    size: ["S", "M", "L", "XL"],
+    size: ["S", "M", "L"],
   },
   {
     id: "302",
