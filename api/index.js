@@ -24,7 +24,7 @@ const app=express();
 dotenv.config();
 app.use(cors({
     origin:[
-        // "https://ecommerce-three-umber.vercel.app",
+        "https://ecommerce-three-umber.vercel.app",
         "http://localhost:3000",
         "http://localhost:5173",
         
