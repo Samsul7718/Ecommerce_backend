@@ -37,10 +37,21 @@ app.use(express.static('public'));
 app.get('/',(req,res)=>{
     res.send('Server is up and running');
 })
+console.log("Registering /api/products route");
 
 app.get('/api/products',(req,res)=>{
     res.json(allProducts)
 })
+// app.get("/api/products", (req, res) => {
+//     console.log("🔥 /api/products route hit");
+//     res.json({
+//         success: true,
+//         message: "Products API is working",
+//         count: allProducts.length,
+//         data: allProducts
+//     });
+// });
+
 
 console.log("MEN:", MenProducts);
 console.log("WOMEN:", GirlProducts);
