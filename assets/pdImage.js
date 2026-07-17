@@ -41,7 +41,7 @@ export default{
    adidas:"https://jnsl1jaaclyjkpbh.public.blob.vercel-storage.com/Shoe/adi1.jpeg",
    puma:"https://jnsl1jaaclyjkpbh.public.blob.vercel-storage.com/Shoe/pma1.jpeg",
    reebok:"https://jnsl1jaaclyjkpbh.public.blob.vercel-storage.com/Shoe/reb1.jpeg",
-   macbook:"https://jnsl1jaaclyjkpbh.public.blob.vercel-storage.com/Electroics/mac.jpg",
+   // macbook:"https://jnsl1jaaclyjkpbh.public.blob.vercel-storage.com/Electroics/mac.jpg",
    speaker:"https://jnsl1jaaclyjkpbh.public.blob.vercel-storage.com/Electroics/speaker.jpeg",
    watch:"https://jnsl1jaaclyjkpbh.public.blob.vercel-storage.com/Electroics/watch.webp",
    pendrive:"https://jnsl1jaaclyjkpbh.public.blob.vercel-storage.com/Electroics/pend.jpg",

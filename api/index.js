@@ -11,12 +11,13 @@ import KitProducts from '../products/kitchen/Kitchen.js';
 import ShoeProducts from '../products/shoe/Shoes.js';
 import Electronic from '../products/electronics/Electronic.js';
 import Beauty from '../products/beauty/Beauty.js';
+import Laptop from '../products/laptop/Laptop.js';
 
 
 
 
 const allProducts=[...MenProducts,...GirlProducts,...GymProducts,...ToyProducts,...KitProducts,
-    ...ShoeProducts,...Electronic,...Beauty,
+    ...ShoeProducts,...Electronic,...Beauty,...Laptop,
 ];
 
 const app=express();
