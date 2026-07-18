@@ -2,7 +2,7 @@ import laptop from "../../assets/pdImage.js"
 
 const Laptop=[
       {
-        id: "801",
+        id: "401",
         name: "ASUS",
         price: 3599.99,
         description: "New Lounch for developer friendly",
@@ -11,7 +11,7 @@ const Laptop=[
         size: ["13cm", "15cm"],
       },
        {
-        id: "802",
+        id: "402",
         name: "Lenovo",
         price: 599.99,
         description: "New Lounch for Gameing laptop",
@@ -20,7 +20,7 @@ const Laptop=[
         size: ["13.5cm", "14cm", "15cm"],
       },
        {
-        id: "803",
+        id: "403",
         name: "Macbook",
         price: 9599.99,
         description: "Fast Processer for coding product...",
@@ -29,7 +29,7 @@ const Laptop=[
         size: ["13cm", "15cm"],
       },
        {
-        id: "804",
+        id: "404",
         name: "MacPro",
         price: 13599.99,
         description: "Superfast processor for AI Intrigration",
