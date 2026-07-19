@@ -25,8 +25,8 @@ dotenv.config();
 app.use(cors({
     origin:[
         "https://ecommerce-three-umber.vercel.app",
-        "http://localhost:3000",
-        "http://localhost:5173",
+        // "http://localhost:3000",
+        // "http://localhost:5173",
         
     ],
     methods:['GET','POST'],
